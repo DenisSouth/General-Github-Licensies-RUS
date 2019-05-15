@@ -116,4 +116,15 @@
     <td> </td>
     <td>• Модификации и более крупные проекты могут распространяться на разных условиях и без исходного кода.<br>• Можно ничего не указывать.<br>• Ограничений нет.</td>
   </tr>
+  
+   <tr>
+    <td>🔴</td>
+    <td><a href="Licensies/CC-BY-NC-SA 4.0.txt">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</a></td>
+    <td>• pending</td>
+    <td>• pending</td>
+    <td>• pending</td>
+    <td>• pending</td>
+  </tr>
+  
+  
 </table>
